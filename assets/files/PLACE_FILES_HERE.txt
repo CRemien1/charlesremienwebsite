@@ -1,0 +1,7 @@
+Place the following PDF files in this folder:
+
+cv.pdf
+job-market-paper.pdf
+teaching-statement.pdf
+
+The website links already point to these filenames.
