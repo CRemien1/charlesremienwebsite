@@ -198,6 +198,14 @@ h2 {
   padding-block: 92px;
 }
 
+.section.section-tight-bottom {
+  padding-bottom: 28px;
+}
+
+.section.section-tight-top {
+  padding-top: 28px;
+}
+
 .muted-section {
   background: var(--soft);
 }
